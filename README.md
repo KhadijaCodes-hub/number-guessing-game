@@ -26,7 +26,7 @@ cd number-guessing-game
 Run the script:
 
 ```bash
-python number_guess.py
+python number_guessing_game.py
 ```
 
 ---
@@ -58,7 +58,7 @@ You got it in 3 attempts.
 
 ```
 📦 Number-Guessing-Game
- ┣ 📜 number_guess.py
+ ┣ 📜 number_guessing_game.py
  ┗ 📜 README.md
 ```
 
